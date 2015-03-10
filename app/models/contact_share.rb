@@ -27,6 +27,4 @@ class ContactShare < ActiveRecord::Base
     foreign_key: :user_id
   )
 
-
-
 end
